@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A gad of steele, wrought and tempered for the heart to defend it from being battred by Sathans temptation, and to give it a sharpe and lasting edge in heavenly consolation. Shevving that Deus est optima possessio, God is the best possession. / By Hen. Walker, SS. Theolog.</title>
+            <author>Walker, Henry, Ironmonger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96988</idno>
+            <idno type="STC">Wing W376</idno>
+            <idno type="STC">Thomason E204_11</idno>
+            <idno type="STC">ESTC R15136</idno>
+            <idno type="EEBO-CITATION">99859806</idno>
+            <idno type="PROQUEST">99859806</idno>
+            <idno type="VID">157696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157696)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E204[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A gad of steele, wrought and tempered for the heart to defend it from being battred by Sathans temptation, and to give it a sharpe and lasting edge in heavenly consolation. Shevving that Deus est optima possessio, God is the best possession. / By Hen. Walker, SS. Theolog.</title>
+                  <author>Walker, Henry, Ironmonger.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. A. and T. F.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason copy imperfect: staining, primarily on t.p.</note>
+                  <note>Annotation on Thomason copy: "An ironmonger"; "this Walker was admitted into orders by Laud Arch. Bish. of Canterbury".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Worship and love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157696:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <p>A GAD OF STEELE, wrought and tempered for the Heart to defend it from being battred by Sathans temptation, and to give it a ſharpe and laſting edge in heavenly Conſolation.</p>
+            <p>SHEVVING THAT <q>Deus est optima poſſeſsio,</q> God is the beſt poſſeſſion.</p>
+            <p>By <hi>HEN. WALKER, SS. Theolog:</hi>
+            </p>
+            <q>The Night is farre ſpent, and the Day is at hand, let vs there<g ref="char:EOLhyphen"/>fore caſt away the deeds of Darkneſſe, and let vs put on the Armour of Light.
+<bibl>Rom. 13.</bibl>
+            </q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <q>HOMO ASPICIS VT VIVVNT PELLICANI SANGVINE PVLLI SIC CHRISTO EFFVSO SANGUINE VIVIS </q>
+            </figure>
+            <p>LONDON, Printed by <hi>B. A.</hi> and <hi>T. F.</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157696:2"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:157696:2"/>
+            <!-- PDF PAGE 28 -->
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Doe heere (kinde Reader) preſent thee with <hi>a Gad of Steele,</hi> w<hi rend="sup">ch</hi> though it bee but ſmall, may by well and often peruſall bee meanes to procure thee more happi<g ref="char:EOLhyphen"/>neſſe to thy Soule, then the richeſt Dia<g ref="char:EOLhyphen"/>dem in the world can procure to thy Body, it is <hi>Steele</hi> (as we ſay) to the back; Let therefore no hypocrite thinke to ſhroud himſelf under it; no, it cuts ſinne to the quicke; and my deſire and pray<g ref="char:EOLhyphen"/>er to God is, that where it comes, it may
+<pb facs="tcp:157696:3"/>
+               <!-- PDF PAGE 29 -->cut it downe; which to the glory of God, &amp; ſalvation of his Elect, is the end of my endeavour; yet let me crave of thee, but this one requeſt by the way; that is, that after thou haſt read this E<g ref="char:EOLhyphen"/>piſtle before thou reade the Booke it ſelfe, thou pray to God for his holy ſpi<g ref="char:EOLhyphen"/>rit to goe along with thee and leade thee in the peruſall of it; for, <hi>Legere &amp; non intelligere est negligere?</hi> And holy things are of ſuch a heavenly property, that (though they fill ſanctified hearts with unſpeakable joy, yet) to peruſe them with graceleſſe carnall hearts, they ſavour not.</p>
+            <p>But becauſe my little Enchiridion it ſelfe is but <hi>a Gad of Steele?</hi> my Epiſtle (to be briefe) ſhall be but a ſmall turret to couple it and your hearts together unto GOD? So ſhall I rejoyce and ever remaine,</p>
+            <closer>
+               <signed>Yours, in the Lord Chriſt.
+<hi>H. WALKER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:157696:3"/>
+            <!-- PDF PAGE 29 -->
+            <head>A GAD OF STEELE <hi>wrought and tempered for the Heart to defend is from being battred by Sathans temptations, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N every Society, truth and Peace is the onely ſtay and meanes to keepe them ſafe and maintaine their happi<g ref="char:EOLhyphen"/>neſſe; For the accom<g ref="char:EOLhyphen"/>pliſhment whereof is moſt requiſite, the pur<g ref="char:EOLhyphen"/>chaſing of gracious and faithfull hearts to God: to whom having our hearts rightly bent to ſeeke his glory, will beſt direct us in our Duties one to another; If wee ſeeke God truly, we cannot faile our Brethren; but if wee have flouting, hollow, diſſembling hearts to our Brethren, we cannot be ſincere to God; And it is a ſigne of a gracious heart, to rejoyce to ſee others endued with goodneſſe, and brought nearer unto GOD:
+<note place="margin">Rom. 1, 8,</note> Thus was it with holy <hi>Paul, Rom</hi> 1.8. Firſt (ſaith he) <hi>I thanke my GOD, through</hi> JESVS CHRIST, <hi>for you all,
+<pb n="2" facs="tcp:157696:4"/>
+                  <!-- PDF PAGE 30 -->becauſe your Faith is publiſhed throughout the whole world.</hi> It is our duties to rejoyce for the grace beſtowed on others. In all the Churches of the world, the patternes and examples of the Saints and ſervants of God, ſhould be in greater eſtimation with us, then all the pompe and glo<g ref="char:EOLhyphen"/>ry of the world;
+<note place="margin">Luke, 15.</note> How did that Woman re<g ref="char:EOLhyphen"/>joyce, <hi>Luke,</hi> 5. when ſhee had found her loſt groat, calling her neighbours and friends to re<g ref="char:EOLhyphen"/>joyce with her: And ſurely it is our duty when we ſee one brought to Chriſt, by a nearer union or relation then before, wee ought to reioyce, and to encourage ſuch a one all we can, to pray for him, and not to deride him; but with <hi>Da<g ref="char:EOLhyphen"/>vid: Be glad to ſee him enter into Gods houſe, cal<g ref="char:EOLhyphen"/>ling vs to come in and heare the word of the Lord, Pſal.</hi> 122.1.
+<note place="margin">Pſal. 122.1.</note>
+            </p>
+            <p>Yet alas! how lamentable are our times, wherein men care not for heavenly practiſes themſelves, nor doe but jeſt and taunt at ſuch who labour that way; Many reioyce with their aſſociates and acquaintance in the way to hell, but few there are who goe hand in hand to heaven; but how lamentable and wofull is the end of that Ioy; that whereas we ought to reioyce in the Faith of our friends, yet many have not whereof to reioyce for their friends whom they moſt eſteeme, except their Drun<g ref="char:EOLhyphen"/>kenneſſe, Swearing, Coſening, Whooring, Ga<g ref="char:EOLhyphen"/>ming; alas, this doth but publiſh their Damna<g ref="char:EOLhyphen"/>tion,
+<pb n="3" facs="tcp:157696:4"/>
+               <!-- PDF PAGE 30 -->if they repent not; At this ſhould we re<g ref="char:EOLhyphen"/>joyce, to heare our brother or our friend, to ſay with the Prodigall, <hi>I will goe to my Father.</hi> Oh, let us helpe them forward that goe to GOD; But alas, what a lamentable thing is it to ſee how earneſtly men will preſſe their friends to drinke till they be Drunke, to lye in their be<g ref="char:EOLhyphen"/>halfe, to goe on in revenge, &amp;c. And how ſel<g ref="char:EOLhyphen"/>dome men preſſe their friends to hearing Gods word, to reading, to holy practiſes: Some are afraid of diſpleaſing their friends, others are carnally tender over them, and would not have them ſo much mortified, not to ſet themſelves too much upon ſo melancholly a worke; thus many ſoules drop into hell.</p>
+            <p>God is more worth then all the Kingdomes of the world; <hi>David</hi> knew, that <hi>having once got him to bee his GOD,
+<note place="margin">Pſal. 32.</note> that hee ſhould want no<g ref="char:EOLhyphen"/>thing.</hi> Pſal. 23.</p>
+            <p>When a man (by Faith) can truly ſay to God; <hi>I am thine, and thou art mine, and Chriſt is glo<g ref="char:EOLhyphen"/>rified in me.</hi> Ioh. 17.
+<note place="margin">Ioh. 17.</note> This layes claime to ſal<g ref="char:EOLhyphen"/>vation, this layes hold on the merits of Chriſt as a mans owne, and aſſures him of the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdon of all his ſinnes; <hi>Will a man ſpoyle his owne goods.</hi> Malac. 3.8.
+<note place="margin">Malac. 3.8</note> And hee that knowes himſelfe to be in God, knowes himſelfe to be ſafe from all evill and that nothing can take him out of Gods hands, ſuch a man will dye before he will re<g ref="char:EOLhyphen"/>nounce God, and give himſelfe over to a ſinfull
+<pb n="4" facs="tcp:157696:5"/>
+               <!-- PDF PAGE 31 -->courſe of life. But alas what miſery is the Swea<g ref="char:EOLhyphen"/>rer in, he cannot ſay, God is my God; what mi<g ref="char:EOLhyphen"/>ſery is the Sabboth breaker in; God is aſhamed to be called the God of ſuch as pollute his ho<g ref="char:EOLhyphen"/>ly Sabboth; ſo the Drunkerd, God will not own the Drunkerd, the Adulterer, the Idolater, Whoremonger, &amp;c. Can theſe have any intereſt in Chriſt, can theſe that continue in their ſins ever thinke to find the mercy of God, ſhall ſuch ever thinke to be ſaved, and come to Hea<g ref="char:EOLhyphen"/>ven; no, no, If ſuch men as theſe will be ſaved they muſt forſake theſe courſes of life, they muſt become new men, and love Gods word, and love the Church, and love the Saints, and ſervants of God, delight in his word, in his Or<g ref="char:EOLhyphen"/>dinances, and in his Sabboths to ſanctifie them; and then,
+<note place="margin">Iſay, 12</note> and never till then let them once dreame of comming to Heaven, <hi>Iſay,</hi> 12. For then ſhall they ſee their redemption, when they ſanctifie the name of the Lord, and feare the God of <hi>Iſrael,</hi> when they are no more diſceived of their former ſins, and come to the vnderſtan<g ref="char:EOLhyphen"/>ding of the Law of God; when they leave their luſting after ſinne, and learne the Doctrine of JESVS CHRIST,
+<note place="margin">Iſay, 29.23</note> 
+               <hi>Iſay.</hi> 29.23. and 24.</p>
+            <p>How lamentable then is the condition of many men amongſt us, nay of the moſt part of the world, who are drawne away from God with thoſe three inordinate appetites which St. <hi>Iohn</hi> ſpeakes of: <hi>The luſt of the fleſh, the luſt of the eyes,
+<pb n="5" facs="tcp:157696:5"/>
+                  <!-- PDF PAGE 31 -->the pride of life:</hi> Theſe are like the three troupes of <hi>Caldeans,</hi> as St. <hi>Bernard</hi> compares them,
+<note place="margin">St <hi>Bernard</hi>
+               </note> which drove away <hi>Iobs</hi> cattell; oh that the eyes of the world were but open to ſee how many people thoſe three drive into Hell daily; <hi>They draw them into Hell (as it were) vpon fetherbeds,</hi> the world paſ<g ref="char:EOLhyphen"/>ſeth away, and is gone, and on a ſuddaine, before they bethink themſelves where they are, poore wretches the Devill comes &amp; ſeazes upon them, and away he carries them into Hell; oh that men would think &amp; beware of theſe things betimes, they would not then account of Gods children as they doe, no they would have a better eſteem of them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> 
+               <label>Obiect.</label> Some it may be will ſay,oh but do not ſo many, and ſuch great men doe thus and thus, will you be wiſer then they.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <label>An.</label> Alas, alas;
+thou muſt not think to do as the world doth, if thou wilt be the Child of God, but thou muſt be transformed by the renewing of thy mind, that thou mayſt prove what is that good, that acceptable, and perfect will of God,
+<note place="margin">Rom, 12, 2</note> 
+               <hi>Rom.</hi> 12.2. What if many painted <hi>Iezabels</hi> have ſuch a complexion, ſuch eyes, ſuch haires, <hi>Non quos Deus fecit, ſed quos Diabolus infecit,</hi> not ſuch as God hath made, but ſuch as the Devill hath transformed; what if they diſguiſe themſelves like harlots, thou that art a daughter of GOD muſt not do ſo; what if many cozen by falſe weights, and ſhort tale, thou that art a Sonne
+<pb n="6" facs="tcp:157696:6"/>
+               <!-- PDF PAGE 32 -->of God muſt not doe ſo, what if many drinke till they be drunke, live in wantoneſſe, profane the Sabbath, and walke in ſin daily; yet if thou wilt be a Child of God thou muſt not doe ſo; for theſe ſhall bee damned if they repent not; <hi>the world ſhall bee condemned.</hi>
+               <note place="margin">1 Cor. 11.32.</note> 1 <hi>Cor.</hi> 11.32. Oh, it is an heavie caſe to be damned: Doe but con<g ref="char:EOLhyphen"/>ſider in what a caſe an unrepentant ſinner lyes in at the point of death; ſuppoſe that now thou ſaweſt him even giving his laſt gaſpe; God the Father will not give him one ſmile, but is full of diſpleaſure againſt him; God the Son, gives him ſentence to depart from him, and will not ſpare him one drop of his Bloud; God the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, leaves him a diſpairing Conſcience; the Devils in hell flock about him, like Crowes about carrion, ready to teare him to peeces, and death ſtands with his dart ſtrucke into his very heart, and the poore tormented wretch lies cry<g ref="char:EOLhyphen"/>ing out, oh I am tormented, I am tormented, I am damned; oh what ſhall I doe, I am damned for ever, I ſhall burne in the flames of Hell for ever; now conſider, wouldeſt thou be in this mans caſe? oh then live not as ſuch men live, for they that live as the wicked live, that is in ſinne, and are careleſſe of Gods worſhip; and regard not his word, nor his holy Ordinances, no marvell if they dye diſpairing, and ſo are damned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <label>Obiect.</label>
+Some may ſay, what then ſhall I doe,
+<pb n="7" facs="tcp:157696:6"/>
+               <!-- PDF PAGE 32 -->I ſhall ſurely be damned, ſince I am a great ſin<g ref="char:EOLhyphen"/>ner, a Drunkerd, a Sabboth-breaker, a Swearer, or the like.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <label>Anſw.</label>
+               <note place="margin">Luk. 8.11. Epheſ. 2.8.</note> Get faith in Chriſt whereby thou ſhalt receive remiſſion of thy ſinnes, <hi>Luke.</hi> 8.11. <hi>E<g ref="char:EOLhyphen"/>pheſ.</hi> 2.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <label>Obiect.</label> Oh,
+but how can I thinke to have my ſinnes pardoned whileſt my heart luſteth ſtill after ſinne, and I cannot overcome my ſinnes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <label>Anſw.</label> Chriſt gave himſelfe for our ſins,
+that he might deliver us from this preſent evill world, <hi>Gal.</hi> 1.4. For by Chriſt we not onely enjoy re<g ref="char:EOLhyphen"/>miſſion of ſins to eternall life, but ſanctification to a ſpirituall life,
+<note place="margin">Epheſ, 20</note> for by the ſpirit of God wee are ſealed to the day of Redemption, <hi>Eph.</hi> 1.20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <label>Queſt.</label>
+How ſhall I doe to lead my life ſo as it may pleaſe God, and my ſoule may be ſaved.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <label>Anſw.</label>
+According to Gods will revealed in his holy word, in which if we expect to profit we muſt fix our hearts on God; and daily call vpon his name, for prayer is a mighty prevai<g ref="char:EOLhyphen"/>ling thing with Almighty God, where fervent and hearty prayer is put vp to God, God can<g ref="char:EOLhyphen"/>not depart till he leave a bleſſing behind him, it binds the hands of God that hee becomes a pe<g ref="char:EOLhyphen"/>titioner himſelf as he did to <hi>Moſes;</hi> let me alone ſaith God. Oh gracious God: how great is thy mercy, oh how pittifull a God have wee, to whom be praiſe and glory for ever.</p>
+            <closer>AMEN.</closer>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:157696:7"/>
+            <!-- PDF PAGE 33 -->
+            <head>A divine Prayer.</head>
+            <p>
+               <note n="a" place="margin">1 Pet. 5<g ref="char:punc">▪</g>10</note> O GOD of all Grace, who haſt called vs to thine Eternall glory by Chriſt Ieſus,
+<note n="b" place="margin">Pſal. 10.17</note> Which doeſt prepare the Heart and cauſe thine Eare to heare,
+<note n="c" place="margin">1 King. 8.28</note> Have reſpect to the prayer of thy ſervant, and to his ſupplication,
+<note n="d" place="margin">Ezra, 9.6</note> I am aſhamed and bluſh to life vp mine eyes vnto thee my God, for mine iniquities are increaſed over mine head,
+<note n="e" place="margin">Hoſea. 14.2</note> But O Lord, I beſeech thee take away all mine iniquities and receive me gra<g ref="char:EOLhyphen"/>ciouſly, for Ieſus Chriſt his ſake;
+<note n="f" place="margin">Rom. 3.25</note> Whom thou haſt ſet forth to bee a propitiation through Faith in his blood; Lord
+<note n="g" place="margin">Ezek. 11.19</note> put a new Spirit within me, and take away the ſtony heart out of my fleſh,
+<note n="h" place="margin">1 Cor, 7, 17</note> And as thou haſt called me, ſo endue me with grace to walke before thee;
+<note n="i" place="margin">2 Theſ, 3, 17</note> Stabliſh mee in every good word and worke,
+<note n="k" place="margin">2 Theſ. 3, 1</note> Let thy Word have free courſe amongſt vs and thy Name be glorified,
+<note n="l" place="margin">1 Tim, 2, 2</note> That all may leade a quiet and peaceable life, in all Godlineſſe and honeſty;
+<note n="m" place="margin">Pſal, 17, 8</note> I hum<g ref="char:EOLhyphen"/>bly beſeech thee, make mee dwell in ſafety vnder the ſhadow of thy wings, from this time forth for evermore.</p>
+            <closer>AMEN.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157696:7"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </body>
+   </text>
+</TEI>
